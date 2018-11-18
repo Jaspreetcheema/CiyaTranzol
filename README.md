@@ -1,5 +1,8 @@
 # Initial page
 
-{
-  "plugins": ["iframely"]
-}
+
+
+```text
+{ "plugins": ["iframely"] }
+```
+
