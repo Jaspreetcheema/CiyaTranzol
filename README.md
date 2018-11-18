@@ -1,2 +1,5 @@
 # Initial page
 
+{
+    "plugins": ["thePlugin"]
+}
