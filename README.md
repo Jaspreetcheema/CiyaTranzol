@@ -1,13 +1,5 @@
 # Initial page
 
-function HelloWorldPlugin(options) {
-  // Setup the plugin instance with options...
+{
+  "plugins": ["iframely"]
 }
-
-HelloWorldPlugin.prototype.apply = function(compiler) {
-  compiler.plugin('done', function() {
-    console.log('Hello World!'); 
-  });
-};
-
-module.exports = HelloWorldPlugin;
